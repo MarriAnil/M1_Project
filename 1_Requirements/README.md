@@ -26,7 +26,7 @@ If players choose the same weapon, neither win and the game is played again
 -This project idea is to play with computer.
  
  ## Why
- -this project uses simple function it is very compact to work.
+ -this project uses simple function but it's very compact to work.
  
  ## How
  -By implementing mutilevel program it can be achived
