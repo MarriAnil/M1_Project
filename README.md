@@ -37,11 +37,10 @@ Why
 How
 -By implementing mutilevel program it can be achived -this project requires a lost cost of development.
 
-##Detail requirements
+##Detail requirements :  presented - 1.High level requirements
+                         presented - 2.Low level requirements
+                         (Refer to the requirements folder.)
 
-High Level Requirements:
-  This project can be implemented by using c language in both windows and linux os.   # Implemented
-  This project requires a random number generator function.                           # Implemented
-Low level Requirements:
-  The Random number has to generate the numbers with in the specified range of number.
-  The comparasion of the character from the player input and the computer generated has to be taken care.
+                         
+
+                        
