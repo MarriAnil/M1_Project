@@ -1,5 +1,7 @@
 # M1_Rock Paper Scissor
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/ba49209bbb514191b705c18998a07a7d)](https://app.codacy.com/gh/MarriAnil/M1_Project?utm_source=github.com&utm_medium=referral&utm_content=MarriAnil/M1_Project&utm_campaign=Badge_Grade_Settings)
+
 Abstract:
          Rock paper scissors game is also known as stone paper scissors. It is a hand game that is usually played between 2 people, each player can randomly form any one          of three from their hand.
 
