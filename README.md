@@ -43,13 +43,12 @@ How
                          presented - 2.Low level requirements
                          (Refer to the requirements folder.)
 
-    | Folder | Description | 
+| Folder | Description | 
 | ----- | ----- |
 | 1_Requirements | Documents detailing requirements and research | 
 | 2_Design | Documents specifying design details | 
 | 3_Implementation | All code and documentation | 
 | 4_TestPlan | Documents with test plans and procedures |
 | 5_Report | Project Report Template |
-| 6_Images and Others | Images used in the project |                      
-
+| 6_Images and Others | Images used in the project | 
                         
